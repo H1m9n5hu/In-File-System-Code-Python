@@ -1,3 +1,4 @@
+# In-File System Code Explaination
 This code defines a simple in-memory file system through a Python class called InMemoryFileSystem. It provides a command-line interface (CLI) to interact with the virtual file system. 
 Users can perform operations like creating directories, navigating through directories, listing contents, searching for patterns in files, displaying file contents, creating and modifying
 files, moving or copying files, and deleting files or directories.
